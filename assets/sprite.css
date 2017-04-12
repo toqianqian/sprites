@@ -1,0 +1,90 @@
+.icon-arrow-right-b{
+  background-image: url('images/sprite.png');
+  background-position: -239px 0px;
+  width:16px;
+  height:25px;
+}
+.icon-book-blue{
+  background-image: url('images/sprite.png');
+  background-position: -190px -131px;
+  width:37px;
+  height:36px;
+}
+.icon-bubble-blue{
+  background-image: url('images/sprite.png');
+  background-position: -190px -49px;
+  width:40px;
+  height:36px;
+}
+.icon-bubble-gray{
+  background-image: url('images/sprite.png');
+  background-position: -190px -90px;
+  width:40px;
+  height:36px;
+}
+.icon-check-block{
+  background-image: url('images/sprite.png');
+  background-position: -190px 0px;
+  width:44px;
+  height:44px;
+}
+.icon-check-hook{
+  background-image: url('images/sprite.png');
+  background-position: -174px -190px;
+  width:30px;
+  height:23px;
+}
+.icon-check{
+  background-image: url('images/sprite.png');
+  background-position: -71px -190px;
+  width:30px;
+  height:30px;
+}
+.icon-close{
+  background-image: url('images/sprite.png');
+  background-position: -106px -190px;
+  width:28px;
+  height:28px;
+}
+.icon-code-blue{
+  background-image: url('images/sprite.png');
+  background-position: 0px -190px;
+  width:32px;
+  height:34px;
+}
+.icon-filter{
+  background-image: url('images/sprite.png');
+  background-position: -139px -190px;
+  width:30px;
+  height:25px;
+}
+.icon-lock-blue{
+  background-image: url('images/sprite.png');
+  background-position: -37px -190px;
+  width:29px;
+  height:34px;
+}
+.icon-category-1{
+  background-image: url('images/sprite.png');
+  background-position: -95px 0px;
+  width:90px;
+  height:90px;
+}
+.icon-category-2{
+  background-image: url('images/sprite.png');
+  background-position: 0px -95px;
+  width:90px;
+  height:90px;
+}
+.icon-category-3{
+  background-image: url('images/sprite.png');
+  background-position: -95px -95px;
+  width:90px;
+  height:90px;
+}
+.icon-category-4{
+  background-image: url('images/sprite.png');
+  background-position: 0px 0px;
+  width:90px;
+  height:90px;
+}
